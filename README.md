@@ -1,6 +1,6 @@
 # Haikei (背景)
 
-Un motor de renderizado y gestor de ventanas ultraligero en **C** para servidores gráficos **X11**, desarrollado y mantenido como el backend oficial de **[Keshiki](https://github.com)**, aunque es 100% compatible con cualquier reproductor multimedia (`mpv`, `gifview`, `glxgears`, etc.) o script personalizado.
+Un motor de renderizado y gestor de ventanas ultraligero en **C** para servidores gráficos **X11**, desarrollado y mantenido como el backend oficial de **[Keshiki](https://github.com/Konqi0139/Keshiki)**, aunque es 100% compatible con cualquier reproductor multimedia (`mpv`, `gifview`, `glxgears`, etc.) o script personalizado.
 
 Basado en el código histórico de `xwinwrap` (Novell / Shantanu Goel / Aaahh / mmhobi7), **Haikei** ("telón de fondo" en japonés) incorpora características nativas en C diseñadas para reducir el consumo de CPU a cero, gestionar múltiples pantallas sin esfuerzo y evitar conflictos con paquetes antiguos del sistema.
 
